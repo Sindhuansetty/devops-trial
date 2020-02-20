@@ -1,4 +1,4 @@
 hello
 
-local fetch
+local fetch2
 
